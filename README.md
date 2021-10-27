@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ...
     *  [Open Stories](https://theena.net/open_stories/): open repo of manuscripts with Creative Commons licensing. 
     *  My startup, [Miragian Studios](http://miragian.com/)
-    *  My secon novel, the follow-up to my debut novella [*First Utterance*](https://www.goodreads.com/en/book/show/29616237-first-utterance), available on [Amazon Kindle](https://www.amazon.com/First-Utterance-Miragian-Cycles-Book-ebook/dp/B08MBX8GRZ)
+    *  My second novel, the follow-up to my debut novella [*First Utterance*](https://www.goodreads.com/en/book/show/29616237-first-utterance), available on [Amazon Kindle](https://www.amazon.com/First-Utterance-Miragian-Cycles-Book-ebook/dp/B08MBX8GRZ)
 -  I’m currently learning ...
    * HTML 
    * CSS 
