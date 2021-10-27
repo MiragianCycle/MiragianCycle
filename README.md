@@ -11,9 +11,9 @@
    * JavaScript
    * Python
 - 👯 I’m looking to collaborate on ...
-* Making Vim more accessible for creative writing and writers
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+   - **Making Vim more accessible for creative writing and writers**
+- 💬 Ask me about 
+   - *Writing on Vim* 
 - 📫 How to reach me: 
 * Web site: [Theena Kumaragurunathan](https://theena.net/)
 * Email: miragianstudios[at]gmail.com
