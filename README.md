@@ -15,7 +15,7 @@
 - 💬 Ask me about 
    - *Writing on Vim* 
 - 📫 How to reach me: 
-* Web site: [Theena Kumaragurunathan](https://theena.net/)
-* Email: miragianstudios[at]gmail.com
+   - Web site: [Theena Kumaragurunathan](https://theena.net/)
+   - Email: miragianstudios[at]gmail.com
 
 
