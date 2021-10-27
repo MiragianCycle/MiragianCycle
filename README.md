@@ -8,6 +8,7 @@
 -  I’m currently learning ...
    * HTML 
    * CSS 
+   * Programming Fundamentals with C
    * JavaScript
    * Python
 - 👯 I’m looking to collaborate on ...
