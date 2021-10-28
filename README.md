@@ -14,7 +14,7 @@
    * JavaScript
    * Python
 - 👯 I’m looking to collaborate on ...
-   - **Making Vim more accessible for creative writing and writers**
+   - **Making (Neo)Vim more accessible for creative writing and writers**
 - 💬 Ask me about: 
    - Writing, editing, and world-building on Vim/Neovim. (See below)
    
