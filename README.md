@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on ...
-    *  [Open Stories](https://theena.net/open_stories/): open repo of manuscripts with Creative Commons licensing. 
-    *  My startup, [Miragian Studios](http://miragian.com/), a publishing start-up being built on Open Source technology, and principles
+    *  [Open Stories](https://theena.net/open_stories/): A repo containing open manuscripts with Creative Commons licensing. Always wanted to write your own short stories, but didn't know how to get started? [Open Stories](https://theena.net/open_stories/) will launch soon.  
+    *  My startup, [Miragian Studios](http://miragian.com/), a publishing start-up currently being built on Open Source technology, and principles
     *  My second novel, the follow-up to my debut novella [*First Utterance*](https://www.goodreads.com/en/book/show/29616237-first-utterance), available on [Amazon Kindle](https://www.amazon.com/First-Utterance-Miragian-Cycles-Book-ebook/dp/B08MBX8GRZ)
 -  I’m currently learning ...
    * HTML 
