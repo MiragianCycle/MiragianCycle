@@ -22,3 +22,5 @@
    - Email: miragianstudios[at]gmail.com
 
 
+[![asciicast](https://asciinema.org/a/k3SYv2h1fTVilcFo2pVgunvp8.svg)](https://asciinema.org/a/k3SYv2h1fTVilcFo2pVgunvp8)
+
