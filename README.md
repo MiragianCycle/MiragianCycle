@@ -15,9 +15,11 @@
    * Python
 - 👯 I’m looking to collaborate on ...
    - **Making Vim more accessible for creative writing and writers**
-- 💬 Ask me about:
+- 💬 Ask me about: 
+   - Writing, editing, and world-building on Vim/Neovim. (See below)
+   
+   [![asciicast](https://asciinema.org/a/19tgYOtiDezUSkELtXGbIJ0QN.svg)](https://asciinema.org/a/19tgYOtiDezUSkELtXGbIJ0QN)
 
-[![asciicast](https://asciinema.org/a/ZvU6e4j99XZQ8MTw7osnLjMZN.svg)](https://asciinema.org/a/ZvU6e4j99XZQ8MTw7osnLjMZN)
 
 - 📫 How to reach me: 
    - Web site: [Theena Kumaragurunathan](https://theena.net/)
