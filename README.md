@@ -15,9 +15,9 @@
    * Python
 - 👯 I’m looking to collaborate on ...
    - **Making Vim more accessible for creative writing and writers**
-- 💬 Ask me about 
-   
-[![asciicast](https://asciinema.org/a/ZvU6e4j99XZQ8MTw7osnLjMZN.svg)](https://asciinema.org/a/ZvU6e4j99XZQ8MTw7osnLjMZN)
+- 💬 Ask me about:
+
+<script id="asciicast-ZvU6e4j99XZQ8MTw7osnLjMZN" src="https://asciinema.org/a/ZvU6e4j99XZQ8MTw7osnLjMZN.js" async></script>   
 
 - 📫 How to reach me: 
    - Web site: [Theena Kumaragurunathan](https://theena.net/)
