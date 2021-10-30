@@ -16,9 +16,7 @@
 - 👯 I’m looking to collaborate on ...
    - **Making (Neo)Vim more accessible for creative writing and writers**
 - 💬 Ask me about: 
-   - Writing, editing, and world-building on Vim/Neovim. (See below)
-   
-   [![asciicast](https://asciinema.org/a/19tgYOtiDezUSkELtXGbIJ0QN.svg)](https://asciinema.org/a/19tgYOtiDezUSkELtXGbIJ0QN)
+   - Writing, editing, and world-building on Vim/Neovim. 
 
 
 - 📫 How to reach me: 
