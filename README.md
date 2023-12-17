@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ...
-    * [OVIWrite](https://miragiancycle.github.io/OVIWrite/), a NeoVim for writers
+    * [OVIWrite](https://miragiancycle.github.io/OVIWrite/), an Integrated Writing Environment (IWE) using NeoVim and a curated list of plugins to help write, edit and world-build at the speed of thought
     * [Open Stories](https://miragiancycle.github.io/OVIWrite/)
 
       
