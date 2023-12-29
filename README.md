@@ -3,8 +3,9 @@
 
 
 - 🔭 I’m currently working on ...
-    * [OVIWrite](https://miragiancycle.github.io/OVIWrite/), an Integrated Writing Environment (IWE) using NeoVim and a curated list of plugins to help write, edit and world-build at the speed of thought
-    * [Open Stories](https://miragiancycle.github.io/OVIWrite/)
+    * [OVIWrite](https://miragiancycle.github.io/OVIWrite/) - an Integrated Writing Environment (IWE) using NeoVim and a curated list of plugins to help write, edit and world-build at the speed of thought
+    * [Open Stories](https://github.com/MiragianCycle/open_stories) - Short stories under Creative Commons! Clone, reproduce, remix, reimagine, transpose - your call! 
+    * [Coding For Humanities](https://github.com/MiragianCycle/CodingForHumanities) - My coding adventures, in a public notebook, focused on programming for non-programmer folk like writers and scholars in the humanities 
 
       
       
